@@ -76,7 +76,7 @@ Start the development server with **Nodemon** for auto-reloading:
 npm run dev
 ```
 
-The API will be available at `http://localhost:3000`.
+The API will be available at `http://localhost:<your LOCAL_PORT variable>`.
 
 ## 🚀 Deployment
 
