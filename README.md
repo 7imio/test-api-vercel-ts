@@ -20,8 +20,8 @@ This repository serves as a **template** for building and deploying **TypeScript
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/7imio/test-api-vercel-ts.git
-   cd test-api-vercel-ts
+   git clone https://github.com/7imio/typescript-api-vercel.git
+   cd typescript-api-vercel
    ```
 
 2. **Install dependencies:**
